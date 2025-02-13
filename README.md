@@ -56,8 +56,8 @@ A full-stack web application for HR personnel to manage employee records and tim
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/employee-management-system.git
-cd employee-management-system
+git clone https://github.com/HopeforgeDev/EMS.git
+cd EMS
 
 # Install dependencies
 npm install
